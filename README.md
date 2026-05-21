@@ -5,4 +5,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rogisson&theme=tokyonight)
 
+## linguagens usadas
+# python
+
 
